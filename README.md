@@ -1,6 +1,9 @@
-# 💬 LetsChat – Full Stack Chat Application
+# 💬 LetsChat – Cloud‐Native CI/CD with Jenkins & Terraform
 
-LetsChat is a **real-time chat application** built with **React (Vite)**, **Node.js**, **Socket.io**, and **MongoDB**, featuring JWT authentication, encrypted cookies, media storage, and automated CI/CD with **Jenkins** and **Terraform** deploying to **AWS ECS**.
+LetsChat is a cloud-native, **containerized** chat application orchestrated on **AWS ECS** and delivered through a **Jenkins-driven CI/CD pipeline** with SonarQube, Docker, Trivy, and **Terraform**. It features a React (Vite) frontend, Node.js backend with Socket.io, MongoDB, JWT auth, and secure media handling.
+
+
+![Demo GIF](https://drive.google.com/uc?export=view&id=12K5E4gYXCzI-SRLQSEtVjQcgPub7yEgR)
 
 ---
 
