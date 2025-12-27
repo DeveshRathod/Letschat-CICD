@@ -1,6 +1,6 @@
 [submodule "letschat-frontend"]
 	path = letschat-frontend
-	url = https://github.com/DeveshRathod/letschat-frontend.git
+	url = https://github.com/DeveshRathod/Frontend-letschat.git
 [submodule "letschat-backend"]
 	path = letschat-backend
-	url = https://github.com/DeveshRathod/letschat-backend.git
+	url = https://github.com/DeveshRathod/Backend-letschat.git
