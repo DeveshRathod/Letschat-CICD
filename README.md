@@ -7,7 +7,7 @@ Application details are intentionally minimized—focus is on **infra, automatio
 ---
 ## 🧰 Demo
 
-![Demo GIF](https://drive.google.com/file/d/1_MM6eg89JrWMt3fgGXj5AH_7k-248h7z/view?usp=sharing)
+![Demo GIF](https://drive.google.com/uc?export=view&id=1_MM6eg89JrWMt3fgGXj5AH_7k-248h7z)
 
 ---
 
